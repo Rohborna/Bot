@@ -1,0 +1,28 @@
+{
+  "name": "bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "@k3rn31p4nic/google-translate-api": "^1.1.1",
+    "discord": "^0.8.2",
+    "discord-tts": "^1.0.1",
+    "discord.js": "^12.3.1",
+    "enmap": "^5.7.1",
+    "express": "^4.17.1",
+    "ffbinaries": "^1.1.4",
+    "ffmpeg": "0.0.4",
+    "fs": "0.0.1-security",
+    "google-tts-api": "0.0.4",
+    "node-opus": "^0.3.3",
+    "request": "^2.88.2",
+    "yt-search": "^2.3.0",
+    "ytdl-core": "^3.2.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
